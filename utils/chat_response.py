@@ -10,7 +10,7 @@ import os
 setup_logger()
 
 
-nltk.download('punkt')
+# nltk.download('punkt')
 
 nltk_data_path = os.path.expanduser('~/nltk_data')
 if not os.path.exists(nltk_data_path + '/tokenizers/punkt'):
