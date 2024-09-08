@@ -1,18 +1,7 @@
-2024-09-09 00:30:45,254 - INFO - Logger initialized
-2024-09-09 00:30:50,270 - WARNING - From C:\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+2024-09-09 00:34:02,186 - INFO - Logger initialized
+2024-09-09 00:34:08,887 - WARNING - From C:\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
 
-2024-09-09 00:30:51,676 - WARNING - From C:\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+2024-09-09 00:34:09,656 - INFO - Logger initialized
+2024-09-09 00:34:09,937 - WARNING - From C:\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
 
-2024-09-09 00:31:19,014 - INFO - Logger initialized
-2024-09-09 00:31:19,607 - INFO - Logger initialized
-2024-09-09 00:31:27,048 - INFO - Logger initialized
-2024-09-09 00:31:27,050 - INFO - Processing file of type: txt
-2024-09-09 00:31:27,051 - INFO - Document uploaded and processed (scientific_doc.txt)
-2024-09-09 00:31:36,198 - INFO - Logger initialized
-2024-09-09 00:31:36,203 - INFO - Processing file of type: txt
-2024-09-09 00:31:36,204 - INFO - Document uploaded and processed (scientific_doc.txt)
-2024-09-09 00:31:36,205 - INFO - Received question: Which private company is leading efforts to reduce the cost of space travel?
-2024-09-09 00:31:39,490 - INFO - Answer extracted from sentence: Meanwhile, private companies like SpaceX and Blue Origin are leading efforts to reduce the cost of space travel and make it accessible to more people.
-2024-09-09 00:31:39,491 - INFO - Selected answer from document: SpaceX and Blue Origin (score: 0.9863277077674866)
-2024-09-09 00:31:39,491 - INFO - Generated response: SpaceX and Blue Origin
-2024-09-09 00:31:39,491 - INFO - Response time: 3.2861 seconds
+2024-09-09 00:34:13,395 - INFO - Logger initialized
