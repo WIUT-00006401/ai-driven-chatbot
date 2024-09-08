@@ -1,0 +1,213 @@
+2024-09-08 23:01:53,762 - INFO - Logger initialized
+2024-09-08 23:01:58,933 - WARNING - From C:\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2024-09-08 23:02:06,024 - INFO - Logger initialized
+2024-09-08 23:02:06,024 - INFO - Logger initialized
+2024-09-08 23:02:06,310 - WARNING - From C:\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-09-08 23:02:13,023 - INFO - Logger initialized
+2024-09-08 23:02:13,026 - INFO - Processing file of type: txt
+2024-09-08 23:02:13,026 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:02:21,923 - INFO - Logger initialized
+2024-09-08 23:02:21,926 - INFO - Processing file of type: txt
+2024-09-08 23:02:21,928 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:02:21,930 - INFO - Received question: Who was the first person to walk on the Moon?
+2024-09-08 23:02:24,867 - INFO - Answer extracted from sentence: In 1969, NASA successfully landed humans on the Moon with the Apollo 11 mission, with Neil Armstrong becoming the first person to walk on the lunar surface.
+2024-09-08 23:02:24,867 - INFO - Selected answer from document: Neil Armstrong (score: 0.9989373087882996)
+2024-09-08 23:02:24,867 - INFO - Generated response: Neil Armstrong
+2024-09-08 23:02:24,867 - INFO - Response time: 2.9371 seconds
+2024-09-08 23:03:35,100 - INFO - Logger initialized
+2024-09-08 23:03:35,102 - INFO - Processing file of type: txt
+2024-09-08 23:03:35,102 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:03:35,105 - INFO - Received question: Which spacecraft was Yuri Gagarin aboard during his journey into space?
+2024-09-08 23:03:36,524 - INFO - Answer extracted from sentence: In 1961, Yuri Gagarin became the first human to journey into outer space aboard the Vostok 1 spacecraft, a significant milestone in human space exploration.
+2024-09-08 23:03:36,524 - INFO - Selected answer from document: Vostok 1 (score: 0.7063129544258118)
+2024-09-08 23:03:36,525 - INFO - Generated response: Vostok 1
+2024-09-08 23:03:36,525 - INFO - Response time: 1.4198 seconds
+2024-09-08 23:06:43,324 - INFO - Logger initialized
+2024-09-08 23:06:43,865 - INFO - Logger initialized
+2024-09-08 23:06:43,867 - INFO - Processing file of type: png
+2024-09-08 23:06:46,170 - ERROR - Error processing file: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-09-08 23:06:46,170 - ERROR - File could not be processed.
+2024-09-08 23:07:36,813 - INFO - Logger initialized
+2024-09-08 23:07:37,344 - INFO - Logger initialized
+2024-09-08 23:07:37,346 - INFO - Processing file of type: png
+2024-09-08 23:07:37,455 - ERROR - Error processing file: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-09-08 23:07:37,455 - ERROR - File could not be processed.
+2024-09-08 23:42:01,597 - INFO - Logger initialized
+2024-09-08 23:42:06,939 - INFO - Logger initialized
+2024-09-08 23:42:06,941 - INFO - Processing file of type: txt
+2024-09-08 23:42:06,944 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:42:18,390 - INFO - Logger initialized
+2024-09-08 23:42:24,208 - INFO - Logger initialized
+2024-09-08 23:42:24,211 - INFO - Processing file of type: txt
+2024-09-08 23:42:24,213 - INFO - Document uploaded and processed (financial_doc.txt)
+2024-09-08 23:43:32,495 - INFO - Logger initialized
+2024-09-08 23:43:38,943 - INFO - Logger initialized
+2024-09-08 23:43:38,944 - INFO - Processing file of type: txt
+2024-09-08 23:43:38,944 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:43:59,308 - INFO - Logger initialized
+2024-09-08 23:44:09,454 - INFO - Logger initialized
+2024-09-08 23:44:27,143 - INFO - Logger initialized
+2024-09-08 23:44:27,146 - INFO - Processing file of type: txt
+2024-09-08 23:44:27,147 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:44:42,154 - INFO - Logger initialized
+2024-09-08 23:44:42,158 - INFO - Processing file of type: txt
+2024-09-08 23:44:42,160 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:44:42,162 - INFO - Received question: Who was the first person to walk on the Moon?
+2024-09-08 23:44:46,080 - INFO - Answer extracted from sentence: In 1969, NASA successfully landed humans on the Moon with the Apollo 11 mission, with Neil Armstrong becoming the first person to walk on the lunar surface.
+2024-09-08 23:44:46,080 - INFO - Selected answer from document: Neil Armstrong (score: 0.9989373087882996)
+2024-09-08 23:44:46,080 - INFO - Generated response: Neil Armstrong
+2024-09-08 23:44:46,080 - INFO - Response time: 3.9175 seconds
+2024-09-08 23:46:10,305 - INFO - Logger initialized
+2024-09-08 23:46:10,308 - INFO - Processing file of type: txt
+2024-09-08 23:46:10,310 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:46:10,313 - INFO - Received question: Which spacecraft was Yuri Gagarin aboard during his journey into space?
+2024-09-08 23:46:11,712 - INFO - Answer extracted from sentence: In 1961, Yuri Gagarin became the first human to journey into outer space aboard the Vostok 1 spacecraft, a significant milestone in human space exploration.
+2024-09-08 23:46:11,712 - INFO - Selected answer from document: Vostok 1 (score: 0.7063129544258118)
+2024-09-08 23:46:11,712 - INFO - Generated response: Vostok 1
+2024-09-08 23:46:11,712 - INFO - Response time: 1.3984 seconds
+2024-09-08 23:46:19,977 - INFO - Logger initialized
+2024-09-08 23:46:19,980 - INFO - Processing file of type: txt
+2024-09-08 23:46:19,981 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:46:19,989 - INFO - Received question: What year did Sputnik 1 launch?
+2024-09-08 23:46:21,365 - INFO - Answer extracted from sentence: Space exploration began with the launch of the first artificial satellite, Sputnik 1, by the Soviet Union in 1957.
+2024-09-08 23:46:21,365 - INFO - Selected answer from document: 1957 (score: 0.9953761696815491)
+2024-09-08 23:46:21,365 - INFO - Generated response: 1957
+2024-09-08 23:46:21,365 - INFO - Response time: 1.3762 seconds
+2024-09-08 23:46:32,717 - INFO - Logger initialized
+2024-09-08 23:46:32,720 - INFO - Processing file of type: txt
+2024-09-08 23:46:32,720 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:46:32,729 - INFO - Received question: Which private company is leading efforts to reduce the cost of space travel?
+2024-09-08 23:46:34,240 - INFO - Answer extracted from sentence: Meanwhile, private companies like SpaceX and Blue Origin are leading efforts to reduce the cost of space travel and make it accessible to more people.
+2024-09-08 23:46:34,241 - INFO - Selected answer from document: SpaceX and Blue Origin (score: 0.9863277077674866)
+2024-09-08 23:46:34,241 - INFO - Generated response: SpaceX and Blue Origin
+2024-09-08 23:46:34,241 - INFO - Response time: 1.5127 seconds
+2024-09-08 23:46:46,068 - INFO - Logger initialized
+2024-09-08 23:46:46,071 - INFO - Processing file of type: txt
+2024-09-08 23:46:46,072 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:46:46,083 - INFO - Received question: What happened in space exploration in the 1970s?
+2024-09-08 23:46:47,441 - INFO - Answer extracted from sentence: In the 1980s, space exploration shifted towards collaboration and commercialization.
+2024-09-08 23:46:47,441 - INFO - Low confidence in answer: shifted towards collaboration and commercialization, Score: 0.4399956166744232
+2024-09-08 23:46:47,442 - INFO - Generated response: This information is not available in the document.
+2024-09-08 23:46:47,442 - INFO - Response time: 1.3588 seconds
+2024-09-08 23:47:08,767 - INFO - Logger initialized
+2024-09-08 23:47:08,770 - INFO - Processing file of type: txt
+2024-09-08 23:47:08,771 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:47:08,783 - INFO - Received question: What are the key achievements of the Soviet Union in space exploration?
+2024-09-08 23:47:10,166 - INFO - Answer extracted from sentence: Space exploration began with the launch of the first artificial satellite, Sputnik 1, by the Soviet Union in 1957.
+2024-09-08 23:47:10,166 - INFO - Low confidence in answer: Sputnik 1, Score: 0.031109949573874474
+2024-09-08 23:47:10,166 - INFO - Generated response: This information is not available in the document.
+2024-09-08 23:47:10,166 - INFO - Response time: 1.3828 seconds
+2024-09-08 23:47:49,757 - INFO - Logger initialized
+2024-09-08 23:47:49,760 - INFO - Processing file of type: txt
+2024-09-08 23:47:49,762 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:47:49,778 - INFO - Received question: What happened first?
+2024-09-08 23:47:51,140 - INFO - Answer extracted from sentence: NASA launched the Space Shuttle program, which enabled reusable spacecraft to conduct missions in low Earth orbit.
+2024-09-08 23:47:51,140 - INFO - Low confidence in answer: NASA launched the Space Shuttle program, Score: 0.3642066419124603
+2024-09-08 23:47:51,140 - INFO - Generated response: This information is not available in the document.
+2024-09-08 23:47:51,140 - INFO - Response time: 1.3617 seconds
+2024-09-08 23:48:15,259 - INFO - Logger initialized
+2024-09-08 23:48:15,262 - INFO - Processing file of type: txt
+2024-09-08 23:48:15,263 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:48:15,279 - INFO - Received question: What is the most important discovery?
+2024-09-08 23:48:16,659 - INFO - Answer extracted from sentence: Space exploration began with the launch of the first artificial satellite, Sputnik 1, by the Soviet Union in 1957.
+2024-09-08 23:48:16,659 - INFO - Low confidence in answer: Sputnik 1, Score: 0.3061451315879822
+2024-09-08 23:48:16,660 - INFO - Generated response: This information is not available in the document.
+2024-09-08 23:48:16,660 - INFO - Response time: 1.3805 seconds
+2024-09-08 23:48:56,000 - INFO - Logger initialized
+2024-09-08 23:48:56,002 - INFO - Processing file of type: txt
+2024-09-08 23:48:56,003 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:48:56,020 - INFO - Received question: What is the future of space?
+2024-09-08 23:48:57,455 - INFO - Answer extracted from sentence: The future of space exploration may include missions to asteroids, Mars, and beyond, with the goal of establishing permanent human settlements in space.
+2024-09-08 23:48:57,455 - INFO - Low confidence in answer: missions to asteroids, Mars, and beyond, Score: 0.2800011932849884
+2024-09-08 23:48:57,455 - INFO - Generated response: This information is not available in the document.
+2024-09-08 23:48:57,455 - INFO - Response time: 1.4347 seconds
+2024-09-08 23:49:29,522 - INFO - Logger initialized
+2024-09-08 23:49:29,525 - INFO - Processing file of type: txt
+2024-09-08 23:49:29,527 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:49:29,545 - INFO - Received question: Tell me about the first human.
+2024-09-08 23:49:31,058 - INFO - Answer extracted from sentence: In 1961, Yuri Gagarin became the first human to journey into outer space aboard the Vostok 1 spacecraft, a significant milestone in human space exploration.
+2024-09-08 23:49:31,058 - INFO - Low confidence in answer: Yuri Gagarin, Score: 0.028598500415682793
+2024-09-08 23:49:31,059 - INFO - Generated response: This information is not available in the document.
+2024-09-08 23:49:31,059 - INFO - Response time: 1.5134 seconds
+2024-09-08 23:49:55,016 - INFO - Logger initialized
+2024-09-08 23:49:55,018 - INFO - Processing file of type: txt
+2024-09-08 23:49:55,020 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:49:55,038 - INFO - Received question: Who discovered gravity?
+2024-09-08 23:49:56,367 - INFO - Answer extracted from sentence: Space exploration began with the launch of the first artificial satellite, Sputnik 1, by the Soviet Union in 1957.
+2024-09-08 23:49:56,368 - INFO - Low confidence in answer: Soviet Union, Score: 0.40643030405044556
+2024-09-08 23:49:56,368 - INFO - Generated response: This information is not available in the document.
+2024-09-08 23:49:56,368 - INFO - Response time: 1.3304 seconds
+2024-09-08 23:50:10,217 - INFO - Logger initialized
+2024-09-08 23:50:10,220 - INFO - Processing file of type: txt
+2024-09-08 23:50:10,221 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:50:10,244 - INFO - Received question: What is the capital of France?
+2024-09-08 23:50:11,611 - INFO - Answer extracted from sentence: Space exploration also became a platform for international cooperation with the development of the International Space Station (ISS), a joint effort by NASA, Russia, ESA, Japan, and Canada.
+2024-09-08 23:50:11,611 - INFO - Low confidence in answer: Canada, Score: 4.3339605326764286e-06
+2024-09-08 23:50:11,611 - INFO - Generated response: This information is not available in the document.
+2024-09-08 23:50:11,611 - INFO - Response time: 1.3683 seconds
+2024-09-08 23:50:28,895 - INFO - Logger initialized
+2024-09-08 23:50:28,897 - INFO - Processing file of type: txt
+2024-09-08 23:50:28,899 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:50:28,919 - INFO - Received question: Compare the achievements of the United States and the Soviet Union in space exploration.
+2024-09-08 23:50:30,484 - INFO - Answer extracted from sentence: This achievement inspired the United States to intensify its own space efforts, leading to the formation of NASA and the initiation of the Apollo program.
+2024-09-08 23:50:30,484 - INFO - Low confidence in answer: NASA and the initiation of the Apollo program, Score: 8.135933603625745e-05
+2024-09-08 23:50:30,484 - INFO - Generated response: This information is not available in the document.
+2024-09-08 23:50:30,484 - INFO - Response time: 1.5644 seconds
+2024-09-08 23:50:50,049 - INFO - Logger initialized
+2024-09-08 23:50:50,053 - INFO - Processing file of type: txt
+2024-09-08 23:50:50,054 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:50:50,081 - INFO - Received question: How did private companies change space exploration in the 21st century?
+2024-09-08 23:50:51,525 - INFO - Answer extracted from sentence: The 21st century has seen a renewed interest in space exploration, with both government agencies and private companies taking part in the effort.
+2024-09-08 23:50:51,525 - INFO - Low confidence in answer: renewed interest in space exploration, Score: 0.3785891830921173
+2024-09-08 23:50:51,525 - INFO - Generated response: This information is not available in the document.
+2024-09-08 23:50:51,525 - INFO - Response time: 1.4441 seconds
+2024-09-08 23:51:10,547 - INFO - Logger initialized
+2024-09-08 23:51:10,550 - INFO - Processing file of type: txt
+2024-09-08 23:51:10,550 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:51:10,577 - INFO - Received question: What were the key technological advancements of the Space Shuttle program?
+2024-09-08 23:51:11,967 - INFO - Answer extracted from sentence: NASA launched the Space Shuttle program, which enabled reusable spacecraft to conduct missions in low Earth orbit.
+2024-09-08 23:51:11,968 - INFO - Selected answer from document: enabled reusable spacecraft to conduct missions in low Earth orbit (score: 0.5757033228874207)
+2024-09-08 23:51:11,968 - INFO - Generated response: enabled reusable spacecraft to conduct missions in low Earth orbit
+2024-09-08 23:51:11,968 - INFO - Response time: 1.3911 seconds
+2024-09-08 23:51:52,258 - INFO - Logger initialized
+2024-09-08 23:51:52,260 - INFO - Processing file of type: txt
+2024-09-08 23:51:52,261 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:51:52,293 - INFO - Received question: Which country first landed humans on Mars?
+2024-09-08 23:51:53,685 - INFO - Answer extracted from sentence: Space exploration also became a platform for international cooperation with the development of the International Space Station (ISS), a joint effort by NASA, Russia, ESA, Japan, and Canada.
+2024-09-08 23:51:53,685 - INFO - Low confidence in answer: Russia, ESA, Japan, and Canada, Score: 0.13505396246910095
+2024-09-08 23:51:53,685 - INFO - Generated response: This information is not available in the document.
+2024-09-08 23:51:53,685 - INFO - Response time: 1.3919 seconds
+2024-09-08 23:52:14,644 - INFO - Logger initialized
+2024-09-08 23:52:14,646 - INFO - Processing file of type: txt
+2024-09-08 23:52:14,647 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:52:14,670 - INFO - Received question: Who was the first human to walk on Venus?
+2024-09-08 23:52:16,032 - INFO - Answer extracted from sentence: In 1961, Yuri Gagarin became the first human to journey into outer space aboard the Vostok 1 spacecraft, a significant milestone in human space exploration.
+2024-09-08 23:52:16,032 - INFO - Low confidence in answer: Yuri Gagarin, Score: 0.34242352843284607
+2024-09-08 23:52:16,032 - INFO - Generated response: This information is not available in the document.
+2024-09-08 23:52:16,032 - INFO - Response time: 1.3619 seconds
+2024-09-08 23:52:35,641 - INFO - Logger initialized
+2024-09-08 23:52:35,644 - INFO - Processing file of type: txt
+2024-09-08 23:52:35,645 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:52:35,670 - INFO - Received question: Did NASA develop the first space station?
+2024-09-08 23:52:37,000 - INFO - Answer extracted from sentence: NASA launched the Space Shuttle program, which enabled reusable spacecraft to conduct missions in low Earth orbit.
+2024-09-08 23:52:37,000 - INFO - Low confidence in answer: NASA launched the Space Shuttle program, Score: 0.023887882009148598
+2024-09-08 23:52:37,000 - INFO - Generated response: This information is not available in the document.
+2024-09-08 23:52:37,000 - INFO - Response time: 1.3301 seconds
+2024-09-08 23:53:39,011 - INFO - Logger initialized
+2024-09-08 23:53:39,014 - INFO - Processing file of type: txt
+2024-09-08 23:53:39,015 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:53:39,049 - INFO - Received question: Will humans live on Mars by 2030?
+2024-09-08 23:53:40,420 - INFO - Answer extracted from sentence: SpaceX, led by Elon Musk, has successfully launched reusable rockets and is working towards enabling human missions to Mars.
+2024-09-08 23:53:40,420 - INFO - Low confidence in answer: enabling human missions to Mars, Score: 0.04814936965703964
+2024-09-08 23:53:40,420 - INFO - Generated response: This information is not available in the document.
+2024-09-08 23:53:40,420 - INFO - Response time: 1.3708 seconds
+2024-09-08 23:53:53,663 - INFO - Logger initialized
+2024-09-08 23:53:53,666 - INFO - Processing file of type: txt
+2024-09-08 23:53:53,668 - INFO - Document uploaded and processed (scientific_doc.txt)
+2024-09-08 23:53:53,700 - INFO - Received question: What will space exploration look like in 100 years?
+2024-09-08 23:53:55,065 - INFO - Answer extracted from sentence: This event marked the beginning of the space race between the United States and the Soviet Union, which would dominate space exploration efforts for the next two decades.
+2024-09-08 23:53:55,065 - INFO - Low confidence in answer: space race between the United States and the Soviet Union, Score: 0.002062524901703
+2024-09-08 23:53:55,065 - INFO - Generated response: This information is not available in the document.
+2024-09-08 23:53:55,065 - INFO - Response time: 1.3650 seconds
